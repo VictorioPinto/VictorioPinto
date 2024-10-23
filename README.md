@@ -3,10 +3,15 @@
 💻 Tecnologias que domino:
 
 Kotlin
+
 JavaScript
+
 TypeScript
+
 HTML
+
 CSS
+
 🌱 Atualmente, estou explorando frameworks modernos e aprimorando minhas habilidades em desenvolvimento de aplicações. Tenho paixão por resolver problemas e criar soluções inovadoras.
 
 📁 Confira meus projetos e contribuições abaixo e sinta-se à vontade para entrar em contato! Estou sempre aberto a novas oportunidades e colaborações.
