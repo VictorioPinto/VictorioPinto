@@ -8,9 +8,7 @@ JavaScript
 
 TypeScript
 
-HTML
-
-CSS
+HTML/CSS
 
 🌱 Atualmente, estou explorando frameworks modernos e aprimorando minhas habilidades em desenvolvimento de aplicações. Tenho paixão por resolver problemas e criar soluções inovadoras.
 
